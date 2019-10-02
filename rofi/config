@@ -1,0 +1,26 @@
+! +++++++++++++++++++++++++++++++++++++++++
+! +          Rofi color theme             +
+! +++++++++++++++++++++++++++++++++++++++++
+
+rofi.color-enabled: true
+
+! Window:           'background',  'border', 'separator'
+rofi.color-window: argb:8832302F,  #FFFFC8, argb:ffffffff
+
+!   State:              'bg',       'fg',   'altbg',        'hlbg',         hlfg
+rofi.color-normal: argb:00252936, #FFFFC8, argb:00252936, argb:009575cd, #83A598
+rofi.color-active: argb:00252936, #FFFFC8, argb:00252936, argb:009575cd, #FFFFC8
+rofi.color-urgent: argb:00252936, #83A598, argb:00252936, argb:00252936, #FB4933
+
+rofi.width: 100
+rofi.padding: 400
+rofi.line-margin: 15
+rofi.lines: 3
+rofi.separator-style: none
+rofi.columns: 1
+rofi.font: Inconsolata Bold 22
+rofi.bw: 0
+rofi.eh: 2
+rofi.hide-scrollbar: true
+rofi.auto-select: true
+!rofi.display-drun:⚌
