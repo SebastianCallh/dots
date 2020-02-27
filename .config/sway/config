@@ -14,7 +14,7 @@ set $term alacritty #x-terminal-emulator
 # Note: it's recommended that you pass the final command to sway
 set $menu dmenu_path | dmenu | xargs swaymsg exec --
 
-set $bg ~/Pictures/tealish-wallpaper.jpg fill
+set $bg ~/.config/sway/zenburn-tree.png fill
 
 set $indicator_color 0086b3
 set $clear_color 0086b3
