@@ -1,3 +1,3 @@
 # Dot files ahoy
 
-Copy to `~g`.
+Copy to `~`
