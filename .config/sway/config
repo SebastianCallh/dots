@@ -229,10 +229,9 @@ bar {
     }
 }
 
-
 # Application borders
 default_border none
-client.focused #2F4F2F #4F6F4F #F0DFAF #000000 #000000
+client.focused #383838 #DFAF8F #383838 #000000 #000000
 client.urgent #6C3333 #8C5353 #F0DFAF #000000 #000000
 
 include /etc/sway/config.d/*
